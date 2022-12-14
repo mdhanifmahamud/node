@@ -1,0 +1,2 @@
+# node
+funny-app
